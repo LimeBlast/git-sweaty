@@ -21569,5 +21569,49 @@
     "start_date_local": "2026-02-10T18:48:54Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-02-11",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": 17367056443,
+    "moving_time": 1733.0,
+    "raw_type": "Yoga",
+    "start_date_local": "2026-02-11T19:13:38Z",
+    "type": "MindBody",
+    "year": 2026
+  },
+  {
+    "date": "2026-02-12",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": 17370720173,
+    "moving_time": 1255.0,
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-02-12T07:28:03Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-02-12",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": 17370720180,
+    "moving_time": 634.0,
+    "raw_type": "Workout",
+    "start_date_local": "2026-02-12T07:50:36Z",
+    "type": "GymCardio",
+    "year": 2026
+  },
+  {
+    "date": "2026-02-12",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": 17370786627,
+    "moving_time": 633.0,
+    "raw_type": "Workout",
+    "start_date_local": "2026-02-12T08:02:35Z",
+    "type": "GymCardio",
+    "year": 2026
   }
 ]
