@@ -25673,5 +25673,18 @@
     "start_date_local": "2026-02-17T08:39:59Z",
     "type": "Workout",
     "year": 2026
+  },
+  {
+    "date": "2026-02-17",
+    "distance": 5327.7,
+    "elevation_gain": 39.2,
+    "id": "17431697624",
+    "moving_time": 2135.0,
+    "name": "Let\u2019s put that in the \u201csummer use only\u201d pile",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-02-17T18:49:34Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
