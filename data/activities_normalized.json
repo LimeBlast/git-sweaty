@@ -25686,5 +25686,31 @@
     "start_date_local": "2026-02-17T18:49:34Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-02-18",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17443010592",
+    "moving_time": 1715.0,
+    "name": "Evening Yoga",
+    "raw_activity_type": "Yoga",
+    "raw_type": "Yoga",
+    "start_date_local": "2026-02-18T19:11:54Z",
+    "type": "Yoga",
+    "year": 2026
+  },
+  {
+    "date": "2026-02-19",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17447624664",
+    "moving_time": 1229.0,
+    "name": "Apple Fitness+ Strength",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-02-19T08:21:32Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
