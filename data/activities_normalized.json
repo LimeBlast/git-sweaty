@@ -25712,5 +25712,18 @@
     "start_date_local": "2026-02-19T08:21:32Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-02-19",
+    "distance": 5457.5,
+    "elevation_gain": 43.3,
+    "id": "17453500826",
+    "moving_time": 2025.0,
+    "name": "He run them up to the top of the hill, and he run them down again",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-02-19T18:32:38Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
