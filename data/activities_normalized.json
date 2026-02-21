@@ -25725,5 +25725,18 @@
     "start_date_local": "2026-02-19T18:32:38Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-02-21",
+    "distance": 14064.3,
+    "elevation_gain": 111.4,
+    "id": "17469485591",
+    "moving_time": 6156.0,
+    "name": "Shire Oak +",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-02-21T08:16:30Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
