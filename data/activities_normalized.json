@@ -25738,5 +25738,18 @@
     "start_date_local": "2026-02-21T08:16:30Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-02-22",
+    "distance": 5036.1,
+    "elevation_gain": 109.2,
+    "id": "17481995616",
+    "moving_time": 4909.0,
+    "name": "Exploring Hednesford Hills",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-02-22T09:48:03Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
