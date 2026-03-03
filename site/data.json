@@ -13901,6 +13901,13 @@
       "subtype": "Yoga",
       "type": "Yoga",
       "year": 2026
+    },
+    {
+      "date": "2026-03-02",
+      "hour": 19,
+      "subtype": "Yoga",
+      "type": "Yoga",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -30121,11 +30128,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 2678.0
+        },
+        "2026-03-02": {
+          "activity_ids": [
+            "17580541983"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3844.0
         }
       }
     }
   },
-  "generated_at": "2026-03-02T15:43:42.395623+00:00",
+  "generated_at": "2026-03-03T15:48:51.217429+00:00",
   "other_bucket": "OtherSports",
   "repo": "LimeBlast/git-sweaty",
   "source": "strava",

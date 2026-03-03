@@ -25816,5 +25816,18 @@
     "start_date_local": "2026-02-26T18:33:58Z",
     "type": "Yoga",
     "year": 2026
+  },
+  {
+    "date": "2026-03-02",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17580541983",
+    "moving_time": 3844.0,
+    "name": "Eden Hot Yoga",
+    "raw_activity_type": "Yoga",
+    "raw_type": "Yoga",
+    "start_date_local": "2026-03-02T19:27:50Z",
+    "type": "Yoga",
+    "year": 2026
   }
 ]
