@@ -25829,5 +25829,18 @@
     "start_date_local": "2026-03-02T19:27:50Z",
     "type": "Yoga",
     "year": 2026
+  },
+  {
+    "date": "2026-03-05",
+    "distance": 5277.2,
+    "elevation_gain": 49.8,
+    "id": "17616845840",
+    "moving_time": 1989.0,
+    "name": "Easing back in",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-05T18:39:04Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
