@@ -25842,5 +25842,18 @@
     "start_date_local": "2026-03-05T18:39:04Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-03-07",
+    "distance": 8502.3,
+    "elevation_gain": 33.2,
+    "id": "17632977580",
+    "moving_time": 3232.0,
+    "name": "CWR Saturday Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-07T08:39:21Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
