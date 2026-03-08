@@ -13922,6 +13922,13 @@
       "subtype": "Run",
       "type": "Run",
       "year": 2026
+    },
+    {
+      "date": "2026-03-08",
+      "hour": 9,
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -29955,6 +29962,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 1233.0
+        },
+        "2026-03-08": {
+          "activity_ids": [
+            "17649262914"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1259.0
         }
       },
       "Workout": {
@@ -30173,7 +30189,7 @@
       }
     }
   },
-  "generated_at": "2026-03-07T15:25:28.830992+00:00",
+  "generated_at": "2026-03-08T15:26:08.788752+00:00",
   "other_bucket": "OtherSports",
   "repo": "LimeBlast/git-sweaty",
   "source": "strava",
