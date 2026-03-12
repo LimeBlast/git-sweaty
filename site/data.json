@@ -13957,6 +13957,27 @@
       "subtype": "Run",
       "type": "Run",
       "year": 2026
+    },
+    {
+      "date": "2026-03-12",
+      "hour": 7,
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-12",
+      "hour": 7,
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-12",
+      "hour": 8,
+      "subtype": "Workout",
+      "type": "Workout",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -30017,6 +30038,16 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 1265.0
+        },
+        "2026-03-12": {
+          "activity_ids": [
+            "17693768320",
+            "17693845299"
+          ],
+          "count": 2,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1884.0
         }
       },
       "Workout": {
@@ -30167,6 +30198,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 998.0
+        },
+        "2026-03-12": {
+          "activity_ids": [
+            "17693914672"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 642.0
         }
       },
       "Yoga": {
@@ -30245,7 +30285,7 @@
       }
     }
   },
-  "generated_at": "2026-03-11T15:51:35.129498+00:00",
+  "generated_at": "2026-03-12T15:31:52.922933+00:00",
   "other_bucket": "OtherSports",
   "repo": "LimeBlast/git-sweaty",
   "source": "strava",
