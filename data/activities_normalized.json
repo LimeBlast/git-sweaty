@@ -25959,5 +25959,18 @@
     "start_date_local": "2026-03-12T08:02:51Z",
     "type": "Workout",
     "year": 2026
+  },
+  {
+    "date": "2026-03-12",
+    "distance": 5067.2,
+    "elevation_gain": 38.6,
+    "id": "17700428073",
+    "moving_time": 1738.0,
+    "name": "Thursday hardcore crew",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-12T18:31:37Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
