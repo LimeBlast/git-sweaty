@@ -25972,5 +25972,18 @@
     "start_date_local": "2026-03-12T18:31:37Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-03-14",
+    "distance": 49090.3,
+    "elevation_gain": 400.0,
+    "id": "17720804719",
+    "moving_time": 12124.0,
+    "name": "Morning Gravel Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "GravelRide",
+    "start_date_local": "2026-03-14T10:56:44Z",
+    "type": "GravelRide",
+    "year": 2026
   }
 ]

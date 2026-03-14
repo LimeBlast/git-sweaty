@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-13T15:43:46.351546+00:00",
+  "generated_at": "2026-03-14T15:29:30.746462+00:00",
   "years": {
     "2013": {
       "Hike": {
@@ -15473,6 +15473,17 @@
       }
     },
     "2026": {
+      "GravelRide": {
+        "2026-03-14": {
+          "activity_ids": [
+            "17720804719"
+          ],
+          "count": 1,
+          "distance": 49090.3,
+          "elevation_gain": 400.0,
+          "moving_time": 12124.0
+        }
+      },
       "MountainBikeRide": {
         "2026-01-18": {
           "activity_ids": [
