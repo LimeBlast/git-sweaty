@@ -25979,11 +25979,37 @@
     "elevation_gain": 400.0,
     "id": "17720804719",
     "moving_time": 12124.0,
-    "name": "Morning Gravel Ride",
+    "name": "Jaunt around Worcester",
     "raw_activity_type": "Ride",
     "raw_type": "GravelRide",
     "start_date_local": "2026-03-14T10:56:44Z",
     "type": "GravelRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-14",
+    "distance": 3983.0,
+    "elevation_gain": 19.0,
+    "id": "17723516374",
+    "moving_time": 897.0,
+    "name": "Taking the scenic route back to the car",
+    "raw_activity_type": "Ride",
+    "raw_type": "GravelRide",
+    "start_date_local": "2026-03-14T17:14:27Z",
+    "type": "GravelRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-15",
+    "distance": 8025.9,
+    "elevation_gain": 27.8,
+    "id": "17731022348",
+    "moving_time": 4124.0,
+    "name": "Knobby 8k",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-15T11:03:32Z",
+    "type": "Run",
     "year": 2026
   }
 ]
