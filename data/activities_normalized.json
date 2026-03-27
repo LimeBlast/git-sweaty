@@ -26154,5 +26154,18 @@
     "start_date_local": "2026-03-24T18:49:23Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-03-26",
+    "distance": 5043.1,
+    "elevation_gain": 31.8,
+    "id": "17869101114",
+    "moving_time": 1883.0,
+    "name": "Last run in the dark",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-26T18:32:05Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
