@@ -26167,5 +26167,31 @@
     "start_date_local": "2026-03-26T18:32:05Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-03-28",
+    "distance": 5028.7,
+    "elevation_gain": 39.8,
+    "id": "17885952147",
+    "moving_time": 2075.0,
+    "name": "Saturday club, part 2",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-28T09:35:02Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-28",
+    "distance": 9111.4,
+    "elevation_gain": 52.0,
+    "id": "17885952513",
+    "moving_time": 3947.0,
+    "name": "Saturday club, part 1",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-28T08:15:12Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
