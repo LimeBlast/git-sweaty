@@ -26219,5 +26219,31 @@
     "start_date_local": "2026-03-29T11:33:04Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-04-02",
+    "distance": 5330.2,
+    "elevation_gain": 54.0,
+    "id": "17953207480",
+    "moving_time": 1910.0,
+    "name": "Thursday Evening Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-02T18:35:45Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-03",
+    "distance": 16169.3,
+    "elevation_gain": 28.5,
+    "id": "17959521873",
+    "moving_time": 6495.0,
+    "name": "Half marathon training",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-03T08:59:46Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
