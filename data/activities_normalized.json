@@ -26284,5 +26284,44 @@
     "start_date_local": "2026-04-05T09:39:06Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-04-07",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18009067756",
+    "moving_time": 1323.0,
+    "name": "Apple Fitness+ Strength",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-04-07T07:47:48Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-07",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18009219544",
+    "moving_time": 646.0,
+    "name": "Apple Fitness+ Core",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-04-07T08:11:59Z",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-07",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18009219549",
+    "moving_time": 345.0,
+    "name": "Apple Fitness+ Mindful Cooldown",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-04-07T08:23:21Z",
+    "type": "Workout",
+    "year": 2026
   }
 ]
