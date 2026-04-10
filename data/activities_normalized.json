@@ -26375,5 +26375,18 @@
     "start_date_local": "2026-04-09T07:33:51Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-04-09",
+    "distance": 5246.4,
+    "elevation_gain": 9.5,
+    "id": "18044417625",
+    "moving_time": 1771.0,
+    "name": "That was a speedy one",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-09T18:33:54Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
