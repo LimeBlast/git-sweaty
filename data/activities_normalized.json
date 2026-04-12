@@ -26401,5 +26401,31 @@
     "start_date_local": "2026-04-11T08:33:02Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-12",
+    "distance": 21241.3,
+    "elevation_gain": 5.8,
+    "id": "18077518474",
+    "moving_time": 7782.0,
+    "name": "Accidentally got a PB \ud83d\ude48",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-12T09:36:48Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-12",
+    "distance": 723.0,
+    "elevation_gain": 6.8,
+    "id": "18077795228",
+    "moving_time": 618.0,
+    "name": "Hobble back to the car",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-04-12T11:53:28Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
