@@ -26557,5 +26557,31 @@
     "start_date_local": "2026-04-21T18:45:29Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-22",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18216333190",
+    "moving_time": 1808.0,
+    "name": "Earth Day Yoga",
+    "raw_activity_type": "Yoga",
+    "raw_type": "Yoga",
+    "start_date_local": "2026-04-22T19:22:10Z",
+    "type": "Yoga",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-23",
+    "distance": 5028.8,
+    "elevation_gain": 19.2,
+    "id": "18229476841",
+    "moving_time": 1742.0,
+    "name": "Black cock run \ud83d\udc13",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-23T18:34:46Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
