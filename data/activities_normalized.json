@@ -26583,5 +26583,31 @@
     "start_date_local": "2026-04-23T18:34:46Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-25",
+    "distance": 11785.9,
+    "elevation_gain": 128.6,
+    "id": "18251764428",
+    "moving_time": 6827.0,
+    "name": "Spring 2026 Wolf Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-25T10:21:53Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-25",
+    "distance": 120.0,
+    "elevation_gain": 0.0,
+    "id": "18253465333",
+    "moving_time": 386.0,
+    "name": "Afternoon Swim",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-04-25T15:34:33Z",
+    "type": "Swim",
+    "year": 2026
   }
 ]
