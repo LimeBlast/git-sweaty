@@ -26603,11 +26603,24 @@
     "elevation_gain": 0.0,
     "id": "18253465333",
     "moving_time": 386.0,
-    "name": "Afternoon Swim",
+    "name": "I paid a lot of money for this hotel, I\u2019m going to have a swim! \ud83c\udfca\u200d\u2642\ufe0f",
     "raw_activity_type": "Swim",
     "raw_type": "Swim",
     "start_date_local": "2026-04-25T15:34:33Z",
     "type": "Swim",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-26",
+    "distance": 21369.1,
+    "elevation_gain": 114.8,
+    "id": "18263793941",
+    "moving_time": 8315.0,
+    "name": "Stratford Half Marathon",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-26T09:20:35Z",
+    "type": "Run",
     "year": 2026
   }
 ]
