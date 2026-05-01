@@ -26635,5 +26635,31 @@
     "start_date_local": "2026-04-28T18:48:36Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-30",
+    "distance": 5075.9,
+    "elevation_gain": 22.7,
+    "id": "18322376433",
+    "moving_time": 2051.0,
+    "name": "Thursday Evening Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-30T18:35:30Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-01",
+    "distance": 40067.6,
+    "elevation_gain": 602.0,
+    "id": "18332242890",
+    "moving_time": 10085.0,
+    "name": "Cannock Chase Rock Cottages",
+    "raw_activity_type": "Ride",
+    "raw_type": "GravelRide",
+    "start_date_local": "2026-05-01T09:43:55Z",
+    "type": "GravelRide",
+    "year": 2026
   }
 ]
