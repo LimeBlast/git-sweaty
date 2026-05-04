@@ -26661,5 +26661,18 @@
     "start_date_local": "2026-05-01T09:43:55Z",
     "type": "GravelRide",
     "year": 2026
+  },
+  {
+    "date": "2026-05-04",
+    "distance": 2838.1,
+    "elevation_gain": 32.6,
+    "id": "18372771900",
+    "moving_time": 2893.0,
+    "name": "Dudmaston Hall",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-05-04T11:17:53Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
