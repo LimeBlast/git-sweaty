@@ -26713,5 +26713,44 @@
     "start_date_local": "2026-05-05T08:24:38Z",
     "type": "Workout",
     "year": 2026
+  },
+  {
+    "date": "2026-05-05",
+    "distance": 6888.4,
+    "elevation_gain": 40.2,
+    "id": "18389237047",
+    "moving_time": 1235.0,
+    "name": "Evening Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-05T18:18:54Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-05",
+    "distance": 5026.4,
+    "elevation_gain": 14.2,
+    "id": "18389237992",
+    "moving_time": 1791.0,
+    "name": "Evening Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-05T18:49:51Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-05",
+    "distance": 7529.0,
+    "elevation_gain": 78.4,
+    "id": "18389898835",
+    "moving_time": 1717.0,
+    "name": "Evening Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-05T19:33:30Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
