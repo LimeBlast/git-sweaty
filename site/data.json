@@ -14489,6 +14489,34 @@
       "subtype": "Run",
       "type": "Run",
       "year": 2026
+    },
+    {
+      "date": "2026-05-13",
+      "hour": 19,
+      "subtype": "Workout",
+      "type": "Workout",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-13",
+      "hour": 19,
+      "subtype": "Yoga",
+      "type": "Yoga",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-13",
+      "hour": 19,
+      "subtype": "Workout",
+      "type": "Workout",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-13",
+      "hour": 18,
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -31013,6 +31041,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 1249.0
+        },
+        "2026-05-13": {
+          "activity_ids": [
+            "18494836323"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1235.0
         }
       },
       "Workout": {
@@ -31251,6 +31288,16 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 963.0
+        },
+        "2026-05-13": {
+          "activity_ids": [
+            "18494836275",
+            "18494836304"
+          ],
+          "count": 2,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1288.0
         }
       },
       "Yoga": {
@@ -31343,11 +31390,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 1808.0
+        },
+        "2026-05-13": {
+          "activity_ids": [
+            "18494836294"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1255.0
         }
       }
     }
   },
-  "generated_at": "2026-05-13T17:18:08.979182+00:00",
+  "generated_at": "2026-05-14T17:02:16.911948+00:00",
   "other_bucket": "OtherSports",
   "repo": "LimeBlast/git-sweaty",
   "source": "strava",
