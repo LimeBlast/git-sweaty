@@ -26960,5 +26960,18 @@
     "start_date_local": "2026-05-13T18:55:12Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-05-19",
+    "distance": 3126.3,
+    "elevation_gain": 24.0,
+    "id": "18572071933",
+    "moving_time": 2261.0,
+    "name": "Illegal Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-05-19T18:48:13Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
