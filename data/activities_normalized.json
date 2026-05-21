@@ -26973,5 +26973,18 @@
     "start_date_local": "2026-05-19T18:48:13Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-05-20",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18590451654",
+    "moving_time": 1237.0,
+    "name": "Apple Fitness+ Yoga",
+    "raw_activity_type": "Yoga",
+    "raw_type": "Yoga",
+    "start_date_local": "2026-05-20T19:31:10Z",
+    "type": "Yoga",
+    "year": 2026
   }
 ]
