@@ -26986,5 +26986,18 @@
     "start_date_local": "2026-05-20T19:31:10Z",
     "type": "Yoga",
     "year": 2026
+  },
+  {
+    "date": "2026-05-21",
+    "distance": 5351.5,
+    "elevation_gain": 50.3,
+    "id": "18598984844",
+    "moving_time": 2211.0,
+    "name": "Cats, cakes, and chaos",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-21T18:37:29Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
