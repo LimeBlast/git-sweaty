@@ -27051,5 +27051,31 @@
     "start_date_local": "2026-05-23T09:49:46Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-24",
+    "distance": 10142.7,
+    "elevation_gain": 147.2,
+    "id": "18632755253",
+    "moving_time": 4176.0,
+    "name": "Comer Woods Trust 10 trail run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-24T09:02:33Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-24",
+    "distance": 7828.4,
+    "elevation_gain": 104.0,
+    "id": "18636881781",
+    "moving_time": 6261.0,
+    "name": "\ud83d\udc63",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-05-24T14:22:18Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
