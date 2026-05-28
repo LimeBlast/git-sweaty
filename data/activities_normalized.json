@@ -27103,5 +27103,18 @@
     "start_date_local": "2026-05-27T14:03:42Z",
     "type": "Yoga",
     "year": 2026
+  },
+  {
+    "date": "2026-05-27",
+    "distance": 31806.7,
+    "elevation_gain": 438.0,
+    "id": "18680304218",
+    "moving_time": 7803.0,
+    "name": "Evening Gravel Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "GravelRide",
+    "start_date_local": "2026-05-27T18:36:25Z",
+    "type": "GravelRide",
+    "year": 2026
   }
 ]
