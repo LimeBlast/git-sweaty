@@ -27116,5 +27116,18 @@
     "start_date_local": "2026-05-27T18:36:25Z",
     "type": "GravelRide",
     "year": 2026
+  },
+  {
+    "date": "2026-05-28",
+    "distance": 5592.9,
+    "elevation_gain": 16.4,
+    "id": "18692513902",
+    "moving_time": 2309.0,
+    "name": "It is HOT \ud83e\udd75 \ud83c\udfc3\u200d\u2642\ufe0f",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-28T18:32:00Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
