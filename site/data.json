@@ -14608,6 +14608,27 @@
       "subtype": "Run",
       "type": "Run",
       "year": 2026
+    },
+    {
+      "date": "2026-05-30",
+      "hour": 8,
+      "subtype": "Ride",
+      "type": "Ride",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-30",
+      "hour": 10,
+      "subtype": "Ride",
+      "type": "Ride",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-30",
+      "hour": 8,
+      "subtype": "Run",
+      "type": "Run",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -30172,6 +30193,16 @@
           "distance": 18371.4,
           "elevation_gain": 159.8,
           "moving_time": 4611.0
+        },
+        "2026-05-30": {
+          "activity_ids": [
+            "18713021118",
+            "18713021130"
+          ],
+          "count": 2,
+          "distance": 16526.800000000003,
+          "elevation_gain": 123.8,
+          "moving_time": 3858.0
         }
       },
       "Run": {
@@ -30833,6 +30864,15 @@
           "distance": 5592.9,
           "elevation_gain": 16.4,
           "moving_time": 2309.0
+        },
+        "2026-05-30": {
+          "activity_ids": [
+            "18713048044"
+          ],
+          "count": 1,
+          "distance": 7596.5,
+          "elevation_gain": 34.4,
+          "moving_time": 3156.0
         }
       },
       "Swim": {
@@ -31603,7 +31643,7 @@
       }
     }
   },
-  "generated_at": "2026-05-29T18:12:59.289860+00:00",
+  "generated_at": "2026-05-30T16:05:52.719766+00:00",
   "other_bucket": "OtherSports",
   "repo": "LimeBlast/git-sweaty",
   "source": "strava",
