@@ -27220,5 +27220,18 @@
     "start_date_local": "2026-06-02T08:09:20Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-06-02",
+    "distance": 5035.1,
+    "elevation_gain": 14.8,
+    "id": "18760280509",
+    "moving_time": 1991.0,
+    "name": "New shoes day! New shoes day!",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-02T18:49:21Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
