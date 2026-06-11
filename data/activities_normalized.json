@@ -27376,5 +27376,44 @@
     "start_date_local": "2026-06-09T18:45:00Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-11",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18874695145",
+    "moving_time": 340.0,
+    "name": "Apple Fitness+ Mindful Cooldown",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-06-11T08:37:10Z",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-11",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18874695154",
+    "moving_time": 1236.0,
+    "name": "Apple Fitness+ Strength",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-06-11T08:03:39Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-11",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18874695158",
+    "moving_time": 643.0,
+    "name": "Apple Fitness+ Core",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-06-11T08:25:03Z",
+    "type": "Workout",
+    "year": 2026
   }
 ]
