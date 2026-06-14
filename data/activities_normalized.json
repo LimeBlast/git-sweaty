@@ -27430,6 +27430,19 @@
     "year": 2026
   },
   {
+    "date": "2026-06-11",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18914518984",
+    "moving_time": 202.0,
+    "name": "Quick",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-06-11T19:37:22Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
     "date": "2026-06-13",
     "distance": 11326.3,
     "elevation_gain": 138.4,
@@ -27440,6 +27453,58 @@
     "raw_type": "Run",
     "start_date_local": "2026-06-13T10:21:57Z",
     "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-14",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18912045693",
+    "moving_time": 1258.0,
+    "name": "Apple Fitness+ Strength",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-06-14T07:04:47Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-14",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18912107262",
+    "moving_time": 655.0,
+    "name": "Apple Fitness+ Core",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-06-14T07:26:10Z",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-14",
+    "distance": 5575.7,
+    "elevation_gain": 51.8,
+    "id": "18914301415",
+    "moving_time": 2239.0,
+    "name": "Chasewater Trail Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-14T10:04:22Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-14",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18914511627",
+    "moving_time": 363.0,
+    "name": "Quick",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-06-14T07:40:14Z",
+    "type": "WeightTraining",
     "year": 2026
   }
 ]
