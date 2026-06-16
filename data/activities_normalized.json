@@ -27506,5 +27506,44 @@
     "start_date_local": "2026-06-14T07:40:14Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-06-16",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18939192098",
+    "moving_time": 1248.0,
+    "name": "Apple Fitness+ Strength",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-06-16T07:40:42Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-16",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18939279645",
+    "moving_time": 654.0,
+    "name": "Apple Fitness+ Core",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-06-16T08:01:57Z",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-16",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18939410962",
+    "moving_time": 760.0,
+    "name": "Everyday",
+    "raw_activity_type": "Workout",
+    "raw_type": "HighIntensityIntervalTraining",
+    "start_date_local": "2026-06-16T08:15:04Z",
+    "type": "HighIntensityIntervalTraining",
+    "year": 2026
   }
 ]

@@ -14811,6 +14811,27 @@
       "subtype": "WeightTraining",
       "type": "WeightTraining",
       "year": 2026
+    },
+    {
+      "date": "2026-06-16",
+      "hour": 7,
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-16",
+      "hour": 8,
+      "subtype": "Workout",
+      "type": "Workout",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-16",
+      "hour": 8,
+      "subtype": "HighIntensityIntervalTraining",
+      "type": "HighIntensityIntervalTraining",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -30364,6 +30385,17 @@
           "moving_time": 15441.0
         }
       },
+      "HighIntensityIntervalTraining": {
+        "2026-06-16": {
+          "activity_ids": [
+            "18939410962"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 760.0
+        }
+      },
       "MountainBikeRide": {
         "2026-01-18": {
           "activity_ids": [
@@ -31594,6 +31626,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 1621.0
+        },
+        "2026-06-16": {
+          "activity_ids": [
+            "18939192098"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1248.0
         }
       },
       "Workout": {
@@ -31881,6 +31922,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 655.0
+        },
+        "2026-06-16": {
+          "activity_ids": [
+            "18939279645"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 654.0
         }
       },
       "Yoga": {
@@ -32013,7 +32063,7 @@
       }
     }
   },
-  "generated_at": "2026-06-15T19:04:21.091968+00:00",
+  "generated_at": "2026-06-16T18:55:20.807641+00:00",
   "other_bucket": "OtherSports",
   "repo": "LimeBlast/git-sweaty",
   "source": "strava",
