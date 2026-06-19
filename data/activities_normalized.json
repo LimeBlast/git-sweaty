@@ -27610,5 +27610,70 @@
     "start_date_local": "2026-06-18T07:48:06Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-06-18",
+    "distance": 5007.7,
+    "elevation_gain": 19.6,
+    "id": "18974825688",
+    "moving_time": 1943.0,
+    "name": "Overgrown Black Cock \ud83d\udc13",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-18T18:35:13Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-19",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18980501234",
+    "moving_time": 1231.0,
+    "name": "Apple Fitness+ Strength",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-06-19T07:12:26Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-19",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18980680715",
+    "moving_time": 350.0,
+    "name": "Apple Fitness+ Mindful Cooldown",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-06-19T07:50:36Z",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-19",
+    "distance": 2047.6,
+    "elevation_gain": 27.6,
+    "id": "18981816681",
+    "moving_time": 1346.0,
+    "name": "\ud83d\udc88",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-06-19T09:30:27Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-19",
+    "distance": 1790.9,
+    "elevation_gain": 20.2,
+    "id": "18986414780",
+    "moving_time": 1584.0,
+    "name": "\ud83d\udc1f\ud83c\udf5f",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-06-19T17:14:00Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
