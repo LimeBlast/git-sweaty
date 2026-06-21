@@ -27688,5 +27688,44 @@
     "start_date_local": "2026-06-20T08:38:40Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-21",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19006273223",
+    "moving_time": 1210.0,
+    "name": "Apple Fitness+ Strength",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-06-21T08:45:36Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-21",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19006300727",
+    "moving_time": 615.0,
+    "name": "Apple Fitness+ Core",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-06-21T09:06:18Z",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-21",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19006740897",
+    "moving_time": 1253.0,
+    "name": "International Day of Yoga \ud83e\uddd8",
+    "raw_activity_type": "Yoga",
+    "raw_type": "Yoga",
+    "start_date_local": "2026-06-21T09:30:18Z",
+    "type": "Yoga",
+    "year": 2026
   }
 ]
