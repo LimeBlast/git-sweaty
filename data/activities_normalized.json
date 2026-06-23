@@ -27727,5 +27727,31 @@
     "start_date_local": "2026-06-21T09:30:18Z",
     "type": "Yoga",
     "year": 2026
+  },
+  {
+    "date": "2026-06-23",
+    "distance": 5243.7,
+    "elevation_gain": 48.0,
+    "id": "19031559099",
+    "moving_time": 1871.0,
+    "name": "Morning Run (before it gets too hot)",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-23T07:03:01Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-23",
+    "distance": 1287.1,
+    "elevation_gain": 36.4,
+    "id": "19031673860",
+    "moving_time": 812.0,
+    "name": "Morning Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-06-23T07:35:30Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
