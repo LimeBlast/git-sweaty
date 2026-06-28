@@ -27831,5 +27831,18 @@
     "start_date_local": "2026-06-25T18:33:35Z",
     "type": "MountainBikeRide",
     "year": 2026
+  },
+  {
+    "date": "2026-06-28",
+    "distance": 10050.1,
+    "elevation_gain": 149.4,
+    "id": "19095617308",
+    "moving_time": 3578.0,
+    "name": "Trust 10 Trail Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-28T09:01:10Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
